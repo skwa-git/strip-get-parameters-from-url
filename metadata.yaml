@@ -1,5 +1,5 @@
 homepage: "hhttps://sk-webanalytics.de/"
 documentation: "https://github.com/skwa-git/strip-get-parameters-from-url/blob/main/README.md"
 versions:
-  - sha: xxxx
-    changeNotes: Initial release.
+  - sha: 103b1f55df49abed9b69824cfa081e1d7bb2a695
+    changeNotes: Changed variable description
