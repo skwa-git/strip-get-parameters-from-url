@@ -1,0 +1,5 @@
+homepage: "hhttps://sk-webanalytics.de/"
+documentation: "https://github.com/skwa-git/strip-get-parameters-from-url"
+versions:
+  - sha: xxxx
+    changeNotes: Initial release.
