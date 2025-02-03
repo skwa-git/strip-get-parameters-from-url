@@ -2,7 +2,7 @@
 # GTM Variable Template 'Strip GET parameters from URLs'
 
 
-Import this variable template to remove a list of GET parameters from a URL and get the URL without the specified parameters as return value from the Variable.
+Import this variable template to remove a list of GET parameters from a URL and get the URL without the parameters as return value from the variable.
 
 
 ## How it works
