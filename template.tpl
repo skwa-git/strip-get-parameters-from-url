@@ -15,7 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Strip GET parameters from URLs",
   "categories": ["TAG_MANAGEMENT", "Funktionalität"],
-  "description": "This variable strips GET parameters from a URL and returns the URL without the parameters (all other parameters remain in the URL). The parameters can be defined in a comma-separated list.",
+  "description": "This variable strips GET parameters from a URL and returns the URL without the parameters. The parameters can be defined in a comma-separated list.",
   "containerContexts": [
     "WEB"
   ]
